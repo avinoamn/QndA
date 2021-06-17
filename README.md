@@ -1,24 +1,38 @@
 # QndA
 QndA is a documentation of Questions, Errors and How-to's  that I ran into and the answers for them.
 
+---
+
 ## Table of Contents
 
 - [Maven](#maven)
-    - [Conflicting Dependencies Error](#conflicting-dependencies-error)
-    - [Debug Maven scalatest plugin](#debug-maven-scalatest-plugin)
+    - [How-to's:](#how-tos)
+        - [Debug Maven scalatest plugin](#debug-maven-scalatest-plugin)
+    - [Errors:](#errors)
+        - [Conflicting Dependencies](#conflicting-dependencies)
 - [Spark](#spark)
-    - [Authentication Error](#authentication-error)
+    - [Errors:](#errors)
+        - [Authentication](#authentication)
 - [Docker](#docker)
-    - [Cannot create docker access object: Connect to localhost:2375 failed: Connection refused Error](#cannot-create-docker-access-object-connect-to-localhost2375-failed-connection-refused-error)
+    - [Errors:](#errors)
+        - [Cannot create docker access object: Connect to localhost:2375 failed: Connection refused](#cannot-create-docker-access-object-connect-to-localhost2375-failed-connection-refused)
+        - [Docker container exiting unexpectedly with error code 137](#docker-container-exiting-unexpectedly-with-error code-137)
 
 ---
 
 ## Maven
-  - ### Conflicting Dependencies Error
-  - ### Debug Maven scalatest plugin
+  ### How-to's:
+  ### Debug Maven scalatest plugin
+  ### Errors:
+  ### Conflicting Dependencies
 
-## Maven
-  - ### Authentication Error
+## Spark
+  ### How-to's:
+  ### Errors:
+  ### Authentication
 
 ## Docker
-  - ### Cannot create docker access object: Connect to localhost:2375 failed: Connection refused Error
+  ### How-to's:
+  ### Errors:
+  ### Cannot create docker access object: Connect to localhost:2375 failed: Connection refused
+  ### Docker container exiting unexpectedly with error code 137
