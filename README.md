@@ -34,29 +34,29 @@ QndA is a documentation of Questions, Errors and How-to's  that I ran into and t
 
 ## Maven
   ### How-to's:
-  ### Debug Maven scalatest plugin
+  #### Debug Maven scalatest plugin
   ### Errors:
-  ### Conflicting Dependencies Error
+  #### Conflicting Dependencies Error
 
 ## Scala
   ### How-to's:
-  ### Fix: DateTime.parse is shifting the time a few hours back/forth
+  #### Fix: DateTime.parse is shifting the time a few hours back/forth
   ### Errors:
 
 ## Spark
   ### How-to's:
   ### Errors:
-  ### Authentication Error
+  #### Authentication Error
   
 ## Hadoop
   ### How-to's:
-  ### Connect to proxy
-  ### Create keytab
-  ### List Yarn queues
+  #### Connect to proxy
+  #### Create keytab
+  #### List Yarn queues
   ### Errors:
 
 ## Docker
   ### How-to's:
   ### Errors:
-  ### Cannot create docker access object: Connect to localhost:2375 failed: Connection refused
-  ### Docker container exiting unexpectedly with error code 137
+  #### Cannot create docker access object: Connect to localhost:2375 failed: Connection refused
+  #### Docker container exiting unexpectedly with error code 137
